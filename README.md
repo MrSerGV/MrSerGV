@@ -1,7 +1,7 @@
 Senior FullStack JavaScript / TypeScript Engineer
 -------------------------------------------------
 <div align="justify">
-  I am a M. Sc. in Computer Science, strong and self-organized Software Engineer with 7 years of experience in FullStack development applications and microservices, with a focus on TypeScript and frontend. I am eager to mentor and support team members, fostering a collaborative. Good understanding how works with team for take goal. I exciting to solve difficult cases and successfully close customer needs.
+  Product-minded Full-Stack engineer and Tech Lead, strong and self-organized Software Engineer with 7+ years of experience in FullStack development applications and microservices with a focus on TypeScript, got M. Sc. in Computer Science. Works directly with customers and stakeholders to take ideas from pre-sales, POC and MVP to production. Builds and runs AI-enabled teams, eager to mentor and support team members, fostering a collaborative. Good understanding of how to work with a team to take the goal. I am excited to solve difficult cases and successfully close customer needs.
 </div>
 
 <br/>  
